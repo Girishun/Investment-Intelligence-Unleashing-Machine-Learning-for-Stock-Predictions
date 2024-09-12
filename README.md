@@ -1,4 +1,4 @@
-# Investment Recommendation System
+# Smart Invest: AI-Driven Stock Prediction & Personalized Recommendations
 This project aims to provide investment recommendations based on historical stock data and predictive modeling. The system processes data from your Zerodha account, performs extensive exploratory data analysis (EDA), and builds an investment recommendation system to suggest stocks for immediate purchase and future sale.
 
 ## Project Overview
